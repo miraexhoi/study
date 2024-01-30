@@ -1,7 +1,7 @@
 # study
 ### Architecture
 - [헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
-- [OOP (Object-Oriented Programming)](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
+- [OOP (Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
 
 ### Spring
 - [Spring이란?](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/spring.md)
