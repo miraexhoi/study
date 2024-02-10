@@ -9,6 +9,7 @@
   - [QueryDSL으로 랜덤 레코드 가져오기 (feat. MySQL)](https://miraexhoi.tistory.com/3)
 - [[Swagger] Springfox Swagger vs Spingdoc 차이](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/swagger.md)
 - [[Spring] Entity와 DTO의 개념과 분리하는 이유](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/entityvsdto.md)
+- [[Spring] MVC 패턴이란? (Model, View, Controller의 개념과 규칙)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/mvc.md)
 
 ### Operating System
 - [동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/main/Back-End/Operating%20System/synvsasyn.md)
