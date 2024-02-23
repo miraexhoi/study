@@ -16,3 +16,7 @@
 
 ### Operating System
 - [동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/main/Back-End/Operating%20System/synvsasyn.md)
+
+### 🔎 ETC
+### Algorithm
+- [[Programmers][SQL] 조건에 부합하는 중고거래 댓글 조회하기](https://velog.io/@miraexhoi/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EB%8C%93%EA%B8%80-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
