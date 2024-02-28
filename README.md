@@ -16,6 +16,7 @@
 
 ### Operating System
 - [동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/main/Back-End/Operating%20System/synvsasyn.md)
+- [프로세스 VS 스레드의 개념과 차이점에 대해 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Operating%20System/processvsthread.md)
 
 ### 💡 Algorithm
 - [[Algorithm] DFS의 개념과 동작 과정 알아보기](https://github.com/miraexhoi/study/blob/main/Algorithm/dfs.md)
