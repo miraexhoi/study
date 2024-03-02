@@ -2,8 +2,8 @@
 
 ### 🛠️ BACK-END
 ### Spring
-- [Spring이란?](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/spring.md)
-- [QueryDSL 사용 이유 (+JPQL의 문제점)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/querydsl.md)  
+- [[Spring] Spring이란?](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/spring.md)
+- [[Spring] QueryDSL 사용 이유 (+JPQL의 문제점)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/querydsl.md)  
   - [QueryDSL으로 랜덤 레코드 가져오기 (feat. MySQL)](https://miraexhoi.tistory.com/3)
 - [[Swagger] Springfox Swagger vs Spingdoc 차이](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/swagger.md)
 - [[Spring] Entity와 DTO의 개념과 분리하는 이유](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/entityvsdto.md)
@@ -11,12 +11,15 @@
 - [[Spring] JWT(Json Web Token)에 대하여 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/jwt.md)
 
 ### Architecture
-- [헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
-- [OOP(Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
+- [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
+- [[Architecture] OOP(Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
 
+### 🖥️ Computer Science
+### Network
+- [[Network] 악명높은 Socket을 마스터 해보자!](https://github.com/miraexhoi/study/blob/master/Back-End/Computer%20Science/Network/socket.md)
 ### Operating System
-- [동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Computer%20Science/Operating%20System/synvsasyn.md)
-- [프로세스 VS 스레드의 개념과 차이점에 대해 알아보자](https://github.com/miraexhoi/study/blob/master/Back-End/Computer%20Science/Operating%20System/processvsthread.md)
+- [[OS] 동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Computer%20Science/Operating%20System/synvsasyn.md)
+- [[OS] 프로세스 VS 스레드의 개념과 차이점에 대해 알아보자](https://github.com/miraexhoi/study/blob/master/Back-End/Computer%20Science/Operating%20System/processvsthread.md)
 
 ### 💡 Algorithm
 - [[Algorithm] DFS의 개념과 동작 과정 알아보기](https://github.com/miraexhoi/study/blob/main/Algorithm/dfs.md)
