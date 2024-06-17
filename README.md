@@ -14,6 +14,9 @@
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
 - [[Kotlin] 변수에 대하여 알아보자!](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/variable.md)
 
+### Java
+- [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
+
 ### Architecture
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
 - [[Architecture] OOP(Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
