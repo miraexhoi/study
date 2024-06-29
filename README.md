@@ -21,6 +21,7 @@
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
 - [[Architecture] OOP(Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
 - [[Architecture] 도대체 클린 아키택처가 뭔데?!](https://github.com/miraexhoi/study/blob/master/Back-End/Architecture/clean.md)
+- [[Architecture] 전설의 MSA 정복하기..](https://github.com/miraexhoi/study/blob/master/Back-End/Architecture/msa.md)
 
 ### 🖥️ Computer Science
 ### Network
