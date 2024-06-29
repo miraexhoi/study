@@ -1,5 +1,7 @@
 # study 
 
+> KHOPE 님의 [estudy](https://github.com/esperar/estudy) 를 보고 영감을 받아 배우고 이해한 것을 기록하고 공유하기 위한 저장소입니다.
+
 ### 🛠️ BACK-END
 ### Spring
 - [[Spring] Spring이란?](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/spring.md)
