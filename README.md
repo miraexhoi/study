@@ -19,6 +19,9 @@
 ### Java
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
+### Ai
+- [[Ai] 파인튜닝(Fine-tuning)이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Ai/OpenAi/finetuning.md)
+
 ### Architecture
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
 - [[Architecture] OOP(Object-Oriented Programming)의 4가지 특징](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/oop.md)
