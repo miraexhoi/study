@@ -20,7 +20,7 @@
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
 ### Ai
-- [[Ai] 파인튜닝(Fine-tuning)이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Ai/OpenAi/finetuning.md)
+- [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Ai/OpenAi/finetuning.md)
 
 ### Architecture
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/main/Back-End/Architecture/hexagonal.md)
