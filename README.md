@@ -19,6 +19,9 @@
 ### Ai
 - [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/finetuning.md)
 
+### Internet
+- [[Web Server] 경량 웹서버 Nginx](https://github.com/miraexhoi/study/blob/master/Internet/Web%20Server/nginx.md)
+
 ### Architecture
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/master/Architecture/hexagonal.md)
 - [[Architecture] OOP](https://github.com/miraexhoi/study/blob/master/Architecture/oop.md)
