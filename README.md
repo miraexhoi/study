@@ -34,8 +34,8 @@
 - [[OS] 프로세스 VS 스레드의 개념과 차이점에 대해 알아보자](https://github.com/miraexhoi/study/blob/master/Operating%20System/processvsthread.md)
 
 ### Algorithm
-- [[Algorithm] DFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/main/Algorithm/dfs.md)
-- [[Algorithm] BFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/main/Algorithm/bfs.md)
+- [[Algorithm] DFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/dfs.md)
+- [[Algorithm] BFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/bfs.md)
 
 ### BLOG & ETC
 - [[Deploy][Docker] Github Action + Docker로 CI/CD 파이프라인 구축하기](https://velog.io/@miraexhoi/Github-Action-Docker%EB%A1%9C-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
