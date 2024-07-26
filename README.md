@@ -20,6 +20,7 @@
 - [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/finetuning.md)
 
 ### Internet
+- [[Internet] CDN(Content Delivery Network)이란 무엇인가?](https://github.com/miraexhoi/study/blob/master/Internet/cdn.md)
 - [[Web Server] 경량 웹서버 Nginx](https://github.com/miraexhoi/study/blob/master/Internet/Web%20Server/nginx.md)
 
 ### Architecture
