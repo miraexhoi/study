@@ -16,6 +16,9 @@
 ### Java
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
+### DBMS
+- [[Database] 인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/redis.md)
+
 ### Ai
 - [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/finetuning.md)
 
