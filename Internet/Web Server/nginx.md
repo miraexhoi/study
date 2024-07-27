@@ -27,3 +27,15 @@ Reverse Proxy Server로 활용하여 WAS 서버의 부하를 줄일 수 있는 �
 9. **비동기 처리**  
    Nginx는 **이벤트 루프 방식**을 사용해 높은 성능 제공  
    여러 요청이 들어왔을때 많은 트래픽 동시 처리 → 빠른 응답 시간
+
+### Nginx 설정
+```shell
+sudo yum install nginx
+```
+```shell
+sudo vim /etc/nginx/nginx.conf
+```
+  위 설정파일에서 `location` 수정
+```shell
+sudo service nginx restart
+```
