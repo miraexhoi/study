@@ -7,12 +7,15 @@ NoSQL의 핵심은 **Horizontal Scalability(수평확장)과 High Availability(�
 
 ### NoSQL 특징
 **① RDBMS와 달리 데이터 간의 관계 (Relation)를 정의하지 않는다.**  
+
 RDBMS는 데이터 간의 관계를 Foreign Key로 정의하고 Join 연산을 수행할 수 있지만  
 NoSQL은 Key-Value 형태로 저장되기 때문에 Join 연산이 불가능하다.
 
 **② RDBMS에 비해 대용량의 데이터를 저장할 수 있다.**  
- 
+
+
 **③ 분산형 구조로 설계되어 있다.**  
+
 여러 곳의 서버에 데이터를 분산 저장하여 특정 서버에 장애가 발생했을 때도 데이터 유실 혹은 서비스 중지가 발생하지 않도록 한다.
 
 **④ 고정되어 있지 않은 테이블 스키마를 갖는다.**  
