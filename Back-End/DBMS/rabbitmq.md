@@ -12,7 +12,7 @@ client application과 middleware broker와의 메세지를 주고 받기 위한 
 - 많은 작업이 요청되어 처리를 해야할 때
 
 ### 작업 흐름
-![rabbitmq](../image/rabbitmq.png)
+![rabbitmq](image/rabbitmq.png)
 
 **Producer** : 요청을 보내는 주체, 보내고자 하는 메세지를 exchange에 publish  
 **Consumer** : producer로부터 메세지를 받아 처리하는 주체  
@@ -33,7 +33,7 @@ Binding은 Exchange와 Queue를 연결하는 관계
 **4. Fanout** :	해당 Exchange에 등록된 모든 Queue에 메시지 전송  
 
 #### Direct Exchange
-![rabbitmq](../image/direct exchange.png)
+![rabbitmq](image/direct exchange.png)
 라우팅 키를 이용하여 메시지를 전달할 때 정확히 일치하는 Queue에만 전송  
 하나의 Queue에 여러 라우팅 키, 여러 Queue에 같은 라우팅 키를 지정 또한 가능  
 
@@ -50,11 +50,11 @@ RabbitMQ에서 사용되는 **디폴트 exchange는 Direct**
 라우팅 키의 패턴을 이용해 메시지를 라우팅   
 여러 Consumer에서 메시지 형태에 따라 선택적으로 수신해야하는 경우 등 다양한 패턴 구현에 활용  
 
-![rabbitmq](../image/topic exchange1.png)
+![rabbitmq](image/topic exchange1.png)
 
 → 라우팅 키가 정확히 일치하지 않아 binding되지 않은 경우  
 
-![rabbitmq](../image/topic exchange2.png)
+![rabbitmq](image/topic exchange2.png)
 
 → "animal.rabbit"이 "animal.* "와 "#" 모두에 일치하기 때문에 모든 Queue에 전송되는 경우  
 
@@ -63,7 +63,7 @@ RabbitMQ에서 사용되는 **디폴트 exchange는 Direct**
 
 #### Headers Exchange
 
-![rabbitmq](../image/headers.png)
+![rabbitmq](image/headers.png)
 
 - Topic과 유사한 방법이지만 라우팅을 위해 header를 사용한다는 점에서 차이  
 - producer에서 정의된 header의 key-value 쌍과 consumer에서 정의된 argument의 key-value 쌍 일치 시 binding  
@@ -81,13 +81,13 @@ producer가 전송하는 header의 key-value 값과 argument의 key-value값 중
 
 #### Fanout
 
-![rabbitmq](../image/fanout.png)
+![rabbitmq](image/fanout.png)
 
 Exchange에 등록된 모든 Queue에 메시지를 전송
 
 ### Prefetch Count
 
-![rabbitmq](../image/prefatch.png)
+![rabbitmq](image/prefatch.png)
 
 하나의 Queue에 여러 Consumer가 존재할 경우, Queue는 기본적으로 Round-Robun 방식으로 메시지를 분배  
 - 이때 예를 들어 홀수 번째 메시지 처리 시간은 짧고, 짝수 번째 메시지 처리 시간이 매우 길 경우, 

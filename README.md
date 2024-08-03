@@ -19,6 +19,7 @@
 ### DBMS
 - [[Database] 인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/redis.md)
 - [[Database] NoSQL 이란 무엇일까?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/nosql.md)
+- [[Database] rabbitMQ에 다해여 알아보자전거](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/rabbitmq.md)
 
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
