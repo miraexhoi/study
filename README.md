@@ -14,6 +14,7 @@
 - [[Kotlin] 변수에 대하여 알아보자!](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/variable.md)
 
 ### Java
+- [[Java] 초간단 생성자 Compact Constructor](https://github.com/miraexhoi/study/blob/master/Back-End/Java/compactconstructor.md)
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
 ### DBMS
