@@ -8,6 +8,7 @@
 - [[Spring] Entity와 DTO의 개념과 분리하는 이유](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/entityvsdto.md)
 - [[Spring] MVC 패턴이란? (Model, View, Controller의 개념과 규칙)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/mvc.md)
 - [[Spring] JWT(Json Web Token)에 대하여 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/jwt.md)
+- [[Spring] 스프링의 싱글톤과 멀티 스레딩](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/singletonevsmultithread.md)
 
 ### Kotlin
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
@@ -24,6 +25,7 @@
 
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
+- [[Monitoring] Prometheus란?](https://github.com/miraexhoi/study/blob/master/DevOps/Monitoring/Prometheus.md)
 
 ### Ai
 - [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/finetuning.md)
