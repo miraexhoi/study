@@ -9,6 +9,7 @@
 - [[Spring] MVC 패턴이란? (Model, View, Controller의 개념과 규칙)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/mvc.md)
 - [[Spring] JWT(Json Web Token)에 대하여 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/jwt.md)
 - [[Spring] 스프링의 싱글톤과 멀티 스레딩](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/singletonevsmultithread.md)
+- [[Spring] 스프링 Transaction 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transaction.md)
 
 ### Kotlin
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
