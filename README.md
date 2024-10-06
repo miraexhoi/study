@@ -54,6 +54,9 @@
 - [[Algorithm] DFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/dfs.md)
 - [[Algorithm] BFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/bfs.md)
 
+### Git
+- [[Git] Git 명령어 정리](https://github.com/miraexhoi/study/blob/master/Back-End/Git/git.md)
+
 ### BLOG & ETC
 - [[Deploy][Docker] Github Action + Docker로 CI/CD 파이프라인 구축하기](https://velog.io/@miraexhoi/Github-Action-Docker%EB%A1%9C-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 - [[Docker] 도커? 가상화? 컨테이너? 다 드루와 😤](https://velog.io/@miraexhoi/%EB%8F%84%EC%BB%A4-%EA%B0%80%EC%83%81%ED%99%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%8B%A4-%EB%93%9C%EB%A3%A8%EC%99%80)
