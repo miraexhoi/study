@@ -10,6 +10,7 @@
 - [[Spring] JWT(Json Web Token)에 대하여 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/jwt.md)
 - [[Spring] 스프링의 싱글톤과 멀티 스레딩](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/singletonevsmultithread.md)
 - [[Spring] 스프링 Transaction 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transaction.md)
+- [[Spring] 어노테이션 @Bean vs @Component](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/beanvscomponent.md)
 
 ### Kotlin
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
