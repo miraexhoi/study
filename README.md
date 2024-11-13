@@ -11,6 +11,7 @@
 - [[Spring] 스프링의 싱글톤과 멀티 스레딩](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/singletonevsmultithread.md)
 - [[Spring] 스프링 Transaction 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transaction.md)
 - [[Spring] 어노테이션 @Bean vs @Component](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/beanvscomponent.md)
+- [[Spring] 스프링 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/interview.md)
 
 ### Kotlin
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
