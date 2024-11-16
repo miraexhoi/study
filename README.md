@@ -20,6 +20,7 @@
 
 ### Java
 - [[Java] 초간단 생성자 Compact Constructor](https://github.com/miraexhoi/study/blob/master/Back-End/Java/compactconstructor.md)
+- [[Java / Kotlin] Java의 Record와 Kotlin의 Data Class 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Java/recordvsdataclass.md)
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
 ### Docker
