@@ -8,6 +8,7 @@
 - [[Spring] Entity와 DTO의 개념과 분리하는 이유](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/entityvsdto.md)
 - [[Spring] MVC 패턴이란? (Model, View, Controller의 개념과 규칙)](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/mvc.md)
 - [[Spring] JWT(Json Web Token)에 대하여 알아보자](https://github.com/miraexhoi/study/blob/main/Back-End/Spring/jwt.md)
+- [[Spring] Session(세션)과 Token(토큰)의 차이점?](https://github.com/miraexhoi/study/tree/master/Back-End/Spring/Security)
 - [[Spring] 스프링의 싱글톤과 멀티 스레딩](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/singletonevsmultithread.md)
 - [[Spring] 스프링 Transaction 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transaction.md)
 - [[Spring] 어노테이션 @Bean vs @Component](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/beanvscomponent.md)
