@@ -43,7 +43,7 @@
 - [[Internet] Http? Https? Rest Api?](https://github.com/miraexhoi/study/blob/master/Internet/httphttpsrestapi.md)
 - [[Internet] CDN(Content Delivery Network)이란 무엇인가?](https://github.com/miraexhoi/study/blob/master/Internet/cdn.md)
 - [[Web Server] 경량 웹서버 Nginx](https://github.com/miraexhoi/study/blob/master/Internet/Web%20Server/nginx.md)
-- [[Web Development] SSR(서버 사이드 렌더링 VS CSR(클라이언트 사이드 렌더링)?](https://github.com/miraexhoi/study/blob/master/Internet/ssrvscsr.md)
+- [[Web Development] SSR(서버 사이드 렌더링 VS CSR(클라이언트 사이드 렌더링)](https://github.com/miraexhoi/study/blob/master/Internet/ssrvscsr.md)
 
 ### Architecture
 - [[Architecture] 헥사고날 아키텍처](https://github.com/miraexhoi/study/blob/master/Architecture/hexagonal.md)
