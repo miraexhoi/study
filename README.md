@@ -38,6 +38,7 @@
 
 ### Ai
 - [[Ai] 파인튜닝(Fine-tuning) 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/finetuning.md)
+- [[CS] N-gram 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/n-gram.md)
 
 ### Internet
 - [[Internet] Http? Https? Rest Api?](https://github.com/miraexhoi/study/blob/master/Internet/httphttpsrestapi.md)
