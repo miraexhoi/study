@@ -18,7 +18,7 @@ Prometheus에서 WAL(Write-Ahead Log)과 청크(chunk)는 Prometheus의 데이�
 Prometheus는 시계열 데이터를 효율적으로 저장하기 위해 청크라는 단위로 데이터를 저장하고, WAL을 사용하여 데이터의 안정성을 보장한다.  
 
 ### Prometheus 의 구조
-![image](https://github.com/user-attachments/assets/a4ce6882-8af5-42c7-8a4c-4ae218110bcc)
+![image](https://github.com/user-attachments/assets/0d04fc00-7594-452b-865f-fd9ff233f12f)
 
 ### 장단점
 #### 장점
