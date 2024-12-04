@@ -33,6 +33,7 @@
 ### Data 
 - [[Data] 인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/redis.md)
 - [[Data] rabbitMQ에 다해여 알아보자전거](https://github.com/miraexhoi/study/blob/master/Back-End/Data/rabbitmq.md)
+- [[AWS] Amazon ElastiCache란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/elasticache.md)
 
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
