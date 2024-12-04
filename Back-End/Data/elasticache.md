@@ -1,7 +1,6 @@
 # Amazon ElastiCache란?
 
 ElastiCache는 **Fully managed 분산 인메모리(In-memory) 캐싱 서비스**이다.  
-ElastiCache는 주로 성능을 중시하는 애플리케이션에서 사용된다.  
 **데이터베이스**나 다른 **백엔드 스토리지**에서 가져오는 데이터를 **캐싱(Cache)하여 액세스 속도를 향상**시키는 데 사용된다.  
 즉, ElastiCache는 쉽게 말해서 **데이터를 더 빨리 가져오기 위한** 메모리 기반의 저장소 서비스이다.  
 
@@ -23,7 +22,7 @@ ElastiCache에는 "KVS"(Key-Value Store)형 데이터베이스 엔진이 2개 �
 #### ※ Key-Value형
 저장할 데이터(Value)와 그것을 특정하기 위한 키(Key)가 쌍을 이루는 구성의 데이터셋을 의미한다.
 
-**1. Redis -  (특징: 고급 기능 탑재)**
+#### 1. Redis -  (특징: 고급 기능 탑재)
 - Redis는 Memcached보다 고기능의 데이터베이스 엔진이다.
 - **Single Thread**로 작동한다. 즉, 한 번에 하나의 작업만 처리한다.
 - **Snapshot (Amazon S3에 저장) 기능을 통한 백업 및 복원이 가능**하며, 데이터를 **영구적으로 보존**할 수 있다.
@@ -35,8 +34,8 @@ ElastiCache에는 "KVS"(Key-Value Store)형 데이터베이스 엔진이 2개 �
   - 클라이언트를 비밀번호로 인증하는 Redis 인증 등을 지원
   - 이러한 기능을 사용하려면, ElastiCache 데이터베이스를 생성할 때 Redis를 선택하고 암호화 활성화
 
-**2. Memcached - (특징: 심플한 기능)**
-- Memcached는 **심플한 캐싱 활용**에 적합
+#### 2. Memcached - (특징: 심플한 기능)
+- Memcached는 **단순한 캐싱 활용**에 적합
 - **Multi Thread**로 작동한다. 즉, 여러 스레드가 동시에 요청을 처리 가능
 - Redis와 달리 Memcached는 **데이터의 영구 보존이나 백업 기능 존재하지 x**
 - 그렇기 때문에 **장애나 재부팅이 발생하면 캐시 데이터가 남지 않고 사라짐**
