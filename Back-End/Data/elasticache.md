@@ -1,5 +1,7 @@
 # Amazon ElastiCache란?
 
+[실습코드 보러가기](https://github.com/miraexhoi/elasticache-asynchronous-messaging)  
+
 ElastiCache는 **Fully managed 분산 인메모리(In-memory) 캐싱 서비스**이다.  
 **데이터베이스**나 다른 **백엔드 스토리지**에서 가져오는 데이터를 **캐싱(Cache)하여 액세스 속도를 향상**시키는 데 사용된다.  
 즉, ElastiCache는 쉽게 말해서 **데이터를 더 빨리 가져오기 위한** 메모리 기반의 저장소 서비스이다.  
