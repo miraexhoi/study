@@ -29,6 +29,7 @@
 
 ### DBMS
 - [[Database] NoSQL 이란 무엇일까?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/nosql.md)
+- [[ORDBMS] PostgreSQL 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/postgresql.md)
 
 ### Data 
 - [[Data] 인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/redis.md)
