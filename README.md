@@ -38,6 +38,9 @@
 - [[Data] Apache Kafka란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/kafka.md)
 - [[AWS] Amazon ElastiCache란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/elasticache.md)
   - [ElastiCache - redis 관련 실습코드](https://github.com/miraexhoi/elasticache-asynchronous-messaging)
+ 
+### Test
+- [[Test] 테스트 코드를 왜 작성하는 것인가? - 인프랩 테크](https://github.com/miraexhoi/study/blob/master/Back-End/test/testcode.md)
 
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
@@ -82,7 +85,6 @@
 ### Conference
 - [[Conference] 2024 4개교 연합 토크 콘서트 (정원태)](https://github.com/miraexhoi/study/blob/master/Conference/2024talkconcert-jwt.md)
 - [[Conference] 2024 4개교 연합 토크 콘서트 (옥상훈)](https://github.com/miraexhoi/study/blob/master/Conference/2024talkconcert-osh.md)
-- [[Article] 테스트 코드를 왜 작성하는 것인가? (인프랩 테크)](https://github.com/miraexhoi/study/blob/master/Back-End/test-code.md)
 
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
