@@ -19,10 +19,11 @@
 - [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
 - [[Kotlin] 변수에 대하여 알아보자!](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/variable.md)
 - [[Kotlin] 코틀린 물음표(?) 느낌표(!!)는 무엇일까?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/null.md)
+- [[Kotlin / Java] Java의 Record와 Kotlin의 Data Class 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Java/recordvsdataclass.md)
 
 ### Java
 - [[Java] 초간단 생성자 Compact Constructor](https://github.com/miraexhoi/study/blob/master/Back-End/Java/compactconstructor.md)
-- [[Java / Kotlin] Java의 Record와 Kotlin의 Data Class 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Java/recordvsdataclass.md)
+- [[Java] Record를 DTO로 사용하는 이유 (+ Record vs VO 비교부터 Record의 한계까지)](https://github.com/miraexhoi/study/blob/master/Back-End/Java/whyrecordasdto.md)
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
 ### Docker
