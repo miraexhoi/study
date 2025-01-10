@@ -26,6 +26,9 @@
 - [[Java] Record를 DTO로 사용하는 이유 (+ Record vs VO 비교부터 Record의 한계까지)](https://github.com/miraexhoi/study/blob/master/Back-End/Java/whyrecordasdto.md)
 - [[Java] 자바 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Java/interview.md)
 
+### R
+- [[R] 프로그래밍 언어 R 이란?](https://github.com/miraexhoi/study/blob/master/Language/R/r.md)
+
 ### Docker
 - [[Docker] 왜 도커(Docker)를 써야하나요? 🤔](https://github.com/miraexhoi/study/blob/master/DevOps/Docker/whydocker.md)
 
