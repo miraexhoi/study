@@ -77,6 +77,7 @@
 ### Computer System
 - [[CS] 동시성 문제에 대하여](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/concurrency.md)
 - [[CS] 동시성과 병렬성에 대하여](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/concurrency%26parallelism.md)
+- [[CS] REST 란 무엇일까?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/rest.md)
 
 ### Algorithm
 - [[Algorithm] DFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/dfs.md)
