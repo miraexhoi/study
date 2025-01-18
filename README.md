@@ -34,6 +34,7 @@
 
 ### DBMS
 - [[Database] NoSQL 이란 무엇일까?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/nosql.md)
+  - [[SQL, NoSQL] 관계형 데이터베이스와 비 관계형 데이터베이스의 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/sqlvsnosql.md)
 - [[ORDBMS] PostgreSQL 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/postgresql.md)
 - [[DBMS] ACID 란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/acid.md)
 
