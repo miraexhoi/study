@@ -81,6 +81,7 @@
 - [[CS] 동시성과 병렬성에 대하여](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/concurrency%26parallelism.md)
 - [[CS] REST 란 무엇일까?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/rest.md)
 - [[CS] 스케일 아웃과 스케일 업의 차이점](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/scaleupandscaleout.md)
+- [[CS] CAP 정리와 예시 조합](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/cap.md)
 
 ### Algorithm
 - [[Algorithm] DFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/dfs.md)
