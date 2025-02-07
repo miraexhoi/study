@@ -52,6 +52,7 @@
  
 ### Test
 - [[Test] 테스트 코드를 왜 작성하는 것인가? - 인프랩 테크](https://github.com/miraexhoi/study/blob/master/Back-End/test/testcode.md)
+- [[Test] TDD (테스트 주도 개발) 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/test/test-driven-development.md)
 
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
