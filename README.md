@@ -80,6 +80,7 @@
 - [[OS] 동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/master/Operating%20System/synvsasyn.md)
 - [[OS] 프로세스 VS 스레드의 개념과 차이점에 대해 알아보자](https://github.com/miraexhoi/study/blob/master/Operating%20System/processvsthread.md)
 - [[OS] Deadlock(교착상태)과 처리방법](https://github.com/miraexhoi/study/blob/master/Operating%20System/deadlock.md)
+- [[OS] 시스템 락이란?](https://github.com/miraexhoi/study/blob/master/Operating%20System/systemcall.md)
 
 ### Computer System
 - [[CS] 동시성 문제에 대하여](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/concurrency.md)
