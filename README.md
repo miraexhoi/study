@@ -114,6 +114,8 @@
 
 - [[Architecture] 전설의 MSA](https://github.com/miraexhoi/study/blob/master/Architecture/msa.md)
 
+- [[Architecture] 트랜잭셔널 아웃박스 패턴](https://github.com/miraexhoi/study/blob/master/Architecture/top.md)
+
 ### Operating System
 - [[OS] 동기와 비동기의 개념 & 차이점](https://github.com/miraexhoi/study/blob/master/Operating%20System/synvsasyn.md)
 
