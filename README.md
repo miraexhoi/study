@@ -125,6 +125,8 @@
 
 - [[OS] 시스템 락이란?](https://github.com/miraexhoi/study/blob/master/Operating%20System/systemcall.md)
 
+- [[OS] 연속 메모리 할당 기법이란?](https://github.com/miraexhoi/study/blob/master/Operating%20System/contiguousmemoryallocation.md)
+
 ### Computer System
 - [[CS] 동시성 문제에 대하여](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/concurrency.md)
 
