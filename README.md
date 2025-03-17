@@ -24,6 +24,8 @@
 
 - [[Spring] 스프링 기술면접 예시문항 답변](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/interview.md)
 
+- [[Spring] 스프링 트랜잭션 전파 속성](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transactionpropagation.md)
+
 </br>
 
 - [[Security] Session(세션)과 Token(토큰)의 차이점?](https://github.com/miraexhoi/study/tree/master/Back-End/Spring/Security)
