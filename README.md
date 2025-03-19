@@ -145,6 +145,8 @@
 
 - [[Algorithm] BFS의 개념과 동작 과정 알아보기!](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/bfs.md)
 
+- [[Algorithm] 시간복잡도와 공간복잡도의 차이점](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/time%26spacecomplexity.md)
+
 ### Git
 - [[Git] Git 명령어 정리](https://github.com/miraexhoi/study/blob/master/Back-End/Git/git.md)
 
