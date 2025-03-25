@@ -164,6 +164,8 @@
 
 - [[Conference] 2024 4개교 연합 토크 콘서트 (옥상훈)](https://github.com/miraexhoi/study/blob/master/Conference/2024talkconcert-osh.md)
 
+- [[Conference] 판교 퇴근길 밋업 with 인프런 - 백엔드 테스트코드 (희망편)]
+
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miraexhoi/study.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
