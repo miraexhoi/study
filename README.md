@@ -166,6 +166,8 @@
 
 - [[Conference] 판교 퇴근길 밋업 with 인프런 - 백엔드 테스트코드 (희망편)](https://github.com/miraexhoi/study/blob/master/Conference/pangyo-eveing-meetup-kmi.md)
 
+- [[Conference] 판교 퇴근길 밋업 with 인프런 - 백엔드 테스트코드 (현실편)](https://github.com/miraexhoi/study/blob/master/Conference/pangyo-eveing-meetup-khs.md)
+
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miraexhoi/study.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
