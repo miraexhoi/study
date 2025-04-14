@@ -81,6 +81,8 @@
 ### DevOps
 - [[CI/CD] 나도 이제 Jenkin 할아버지와 알아가는 사이?!](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/jenkins.md)
 
+- [[CI/CD] 블루/그린(Blue/Green) 배포 방식이란?](https://github.com/miraexhoi/study/blob/master/DevOps/CICD/bluegreen.md)
+
 - [[Monitoring] Prometheus란?](https://github.com/miraexhoi/study/blob/master/DevOps/Monitoring/Prometheus.md)
 
 - [[Monitoring] Grafana란?](https://github.com/miraexhoi/study/blob/master/DevOps/Monitoring/grafana.md)
