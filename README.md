@@ -42,6 +42,8 @@
 - [[Kotlin / Java] Java의 Record와 Kotlin의 Data Class 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Java/recordvsdataclass.md)
 
 ### Java
+- [[Java] Gradle 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Java/gradle.md)
+
 - [[Java] 초간단 생성자 Compact Constructor](https://github.com/miraexhoi/study/blob/master/Back-End/Java/compactconstructor.md)
 
 - [[Java] Record를 DTO로 사용하는 이유 (+ Record vs VO 비교부터 Record의 한계까지)](https://github.com/miraexhoi/study/blob/master/Back-End/Java/whyrecordasdto.md)
