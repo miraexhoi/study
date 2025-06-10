@@ -26,6 +26,8 @@
 
 - [[Spring] 스프링 트랜잭션 전파 속성](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/transactionpropagation.md)
 
+- [[Spring] @Controller 와 @RestController 의 차이점](https://github.com/miraexhoi/study/tree/master/Back-End/Spring)
+
 </br>
 
 - [[Security] Session(세션)과 Token(토큰)의 차이점?](https://github.com/miraexhoi/study/tree/master/Back-End/Spring/Security)
