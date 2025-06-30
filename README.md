@@ -28,6 +28,8 @@
 
 - [[Spring] @Controller 와 @RestController 의 차이점](https://github.com/miraexhoi/study/tree/master/Back-End/Spring)
 
+- [[Spring] JPA, Hibernate, Spring Data JPA 의 차이](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/jpadifferent.md)
+
 </br>
 
 - [[Security] Session(세션)과 Token(토큰)의 차이점?](https://github.com/miraexhoi/study/tree/master/Back-End/Spring/Security)
