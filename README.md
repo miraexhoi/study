@@ -102,6 +102,8 @@
 
 - [[NLP] N-gram 이란?](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Ai/OpenAi/n-gram.md)
 
+- [[Develop] 바이브 코딩(Vibe Coding)이란?](https://github.com/miraexhoi/study/blob/main/Back-End/vibecoding.md)
+
 ### Internet
 - [[Internet] Http? Https? Rest Api?](https://github.com/miraexhoi/study/blob/master/Internet/httphttpsrestapi.md)
 
