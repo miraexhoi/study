@@ -104,6 +104,9 @@
 
 - [[Develop] 바이브 코딩(Vibe Coding)이란?](https://github.com/miraexhoi/study/blob/main/Back-End/vibecoding.md)
 
+### App
+- [[App] 앱의 종류(+웹뷰)](https://github.com/miraexhoi/study/blob/master/App/appdifferent.md)
+
 ### Internet
 - [[Internet] Http? Https? Rest Api?](https://github.com/miraexhoi/study/blob/master/Internet/httphttpsrestapi.md)
 
