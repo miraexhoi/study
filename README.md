@@ -29,6 +29,7 @@
 - [[Spring] @Controller 와 @RestController 의 차이점](https://github.com/miraexhoi/study/tree/master/Back-End/Spring)
 
 - [[Spring] JPA, Hibernate, Spring Data JPA 의 차이](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/jpadifferent.md)
+- [[JPA] N+1 문제와 해결방법](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/JPA/n%2B1.md)
 
 </br>
 
