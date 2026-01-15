@@ -71,6 +71,8 @@
 
 - [[DBMS] ACID 란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/acid.md)
 
+- [[SQL] SQL 절 정의 및 비교 (=, IN, OR)](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/sqlcomparison.md)
+
 ### Data 
 - [[Data] 인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/Data/redis.md)
   - [Redis 를 이용한 캐싱 실습코드](https://github.com/miraexhoi/redis-caching-practice)
