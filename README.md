@@ -46,6 +46,8 @@
 
 - [[Kotlin / Java] Java의 Record와 Kotlin의 Data Class 차이점](https://github.com/miraexhoi/study/blob/master/Back-End/Java/recordvsdataclass.md)
 
+- [[Kotlin] 코틀린 groupBy와 associateBy 차이](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/groupnassociateby.md)
+
 ### Java
 - [[Java] Gradle 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Java/gradle.md)
 
