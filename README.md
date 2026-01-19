@@ -40,7 +40,7 @@
 - [[Security] Access 토큰, Refresh 토큰, Reissue 토큰](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/Security/access%26refresh%26reissue.md)
 
 ### Kotlin
-- [[Kotlin] 코틀린이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
+- [[Kotlin] Kotlin - Beginner tour contents](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/kotlin.md)
 
 - [[Kotlin] 변수에 대하여 알아보자!](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/variable.md)
 
