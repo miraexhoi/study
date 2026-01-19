@@ -541,3 +541,6 @@ Kotlin:
 - 함수의 반환 타입은 함수의 괄호 뒤에 `()`콜론으로 구분하여 작성 `:`
 - 함수의 본문은 중괄호 안에 작성됩니다 `{}`
 - `-out` 키워드는 `return`함수를 종료하거나 함수에서 값을 반환하는 데 사용
+
+---
+references : [kotlin 공식 튜토리얼](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)
