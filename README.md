@@ -52,6 +52,8 @@
 
 - [[Kotlin] 코틀린 람다식 (Lambda)](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/lambda.md)
 
+- [[Kotlin] 코틀린 Null 안정성(Null Safety) 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/nullsafety.md)
+
 ### Java
 - [[Java] Gradle 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Java/gradle.md)
 
