@@ -123,6 +123,8 @@
 ### Internet
 - [[Internet] Http? Https? Rest Api?](https://github.com/miraexhoi/study/blob/master/Internet/httphttpsrestapi.md)
 
+- [[Internet] HTTP 통신 vs Socket 통신 차이](https://github.com/miraexhoi/study/blob/master/Internet/httpvssocket.md)
+
 - [[Internet] CDN(Content Delivery Network)이란 무엇인가?](https://github.com/miraexhoi/study/blob/master/Internet/cdn.md)
 
 - [[Internet] URI, URL, URN 의 차이점? 🤔](https://github.com/miraexhoi/study/blob/master/Internet/uri%26url%26urn.md)
