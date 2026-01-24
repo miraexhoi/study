@@ -142,6 +142,8 @@
 
 - [[Architecture] OOP](https://github.com/miraexhoi/study/blob/master/Architecture/oop.md)
 
+- [[Architecture] AOP](https://github.com/miraexhoi/study/blob/master/Architecture/aop.md)
+
 - [[Architecture] 도대체 클린 아키택처가 뭔데?!](https://github.com/miraexhoi/study/blob/master/Architecture/clean.md)
 
 - [[Architecture] 전설의 MSA](https://github.com/miraexhoi/study/blob/master/Architecture/msa.md)
