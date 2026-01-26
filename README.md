@@ -32,6 +32,8 @@
 
 - [[Spring] Spring AOP 에 대하여](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/springaop.md)
 
+  - [스프링 동적 프록시 / cglib / transaction 실습 코드](https://github.com/miraexhoi/jdk-dynamic-proxy)
+
 </br>
 
 - [[JPA] N+1 문제와 해결방법](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/JPA/n%2B1.md)
