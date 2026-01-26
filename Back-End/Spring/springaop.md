@@ -27,6 +27,8 @@ Spring AOP에서 프록시는 **두 가지 방식**으로 생성된다.
 - 단점1 ) 구현체에 직접 접근 불가
 - 단점2 ) `final`, `private` 메서드에 Advice 적용 불가
 
+- [JDK 동적 프록시 실습 코드](https://github.com/miraexhoi/jdk-dynamic-proxy)
+
 **2.CGLIB Proxy (구현 클래스 상속 기반)**
 - 인터페이스가 없거나, 클래스 기반 프록시가 필요할 때 사용
 - 특징1 ) 클래스 상속 → `final` 클래스/메서드 불가
