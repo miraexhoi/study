@@ -60,6 +60,8 @@
 
 - [[Kotlin] 코틀린 Null 안정성(Null Safety) 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/nullsafety.md)
 
+- [[Kotlin] @JsonProperty 란?](https://github.com/miraexhoi/study/blob/master/Back-End/Kotlin/jsonproperty.md)
+
 ### Java
 - [[Java] Gradle 이란?](https://github.com/miraexhoi/study/blob/master/Back-End/Java/gradle.md)
 
