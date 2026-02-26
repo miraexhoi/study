@@ -208,6 +208,9 @@
 
 - [[Conference] 판교 퇴근길 밋업 with 인프런 - 백엔드 테스트코드 (현실편)](https://github.com/miraexhoi/study/blob/master/Conference/pangyo-eveing-meetup-khs.md)
 
+### Inspiration
+- [코드를 읽지 않는 시대, 엔지니어는 무엇을 읽어야 하는가](https://flowkater.io/posts/2026-02-19-code-reading-era/)
+
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miraexhoi/study.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
