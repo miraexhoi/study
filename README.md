@@ -210,6 +210,8 @@
 
 ### Inspiration
 - [코드를 읽지 않는 시대, 엔지니어는 무엇을 읽어야 하는가](https://flowkater.io/posts/2026-02-19-code-reading-era/)
+- [When AI Writes the Code, a Developer's Real Skills Show](https://evan-moon.github.io/2026/02/10/developer-in-ai-era/en/)
+- [Google에서 14년간 얻은 21가지 교훈](https://news.hada.io/topic?id=24909)
 
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
