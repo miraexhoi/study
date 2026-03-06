@@ -37,7 +37,10 @@
 </br>
 
 - [[JPA] N+1 문제와 해결방법](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/JPA/n%2B1.md)
+
 - [[JPA] 페이지네이션 일대다 FETCH JOIN 문제](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/JPA/fetchjoinissue.md)
+
+- [[JPA] OSIV(Open Session In View)란?](https://github.com/miraexhoi/study/blob/master/Back-End/Spring/JPA/osiv.md)
 
 </br>
 
