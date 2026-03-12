@@ -193,6 +193,9 @@
 ### Git
 - [[Git] Git 명령어 정리](https://github.com/miraexhoi/study/blob/master/Back-End/Git/git.md)
 
+### Gist
+- [[Prompt] 피하고 싶은 AI 글쓰기 패턴 모음 - 한국어 버전](https://gist.github.com/miraexhoi/4d062ec4cee521ef3cee96f5e4906e21#file-tropes-ko-md)
+
 ### BLOG & ETC
 - [[Deploy][Docker] Github Action + Docker로 CI/CD 파이프라인 구축하기](https://velog.io/@miraexhoi/Github-Action-Docker%EB%A1%9C-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 
@@ -218,4 +221,3 @@
 
 ---
 referenced source : khope's [estudy](https://github.com/esperar/estudy)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miraexhoi/study.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
