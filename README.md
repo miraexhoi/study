@@ -190,6 +190,9 @@
 
 - [[Algorithm] 시간복잡도와 공간복잡도의 차이점](https://github.com/miraexhoi/study/blob/master/Computer%20Science%20/Algorithm/time%26spacecomplexity.md)
 
+### Book
+- [[Book] 실용주의 사고와 학습 을 읽고 - 파트2](https://github.com/miraexhoi/study/blob/master/Book/pragmaticthinking%26learning.md)
+
 ### Git
 - [[Git] Git 명령어 정리](https://github.com/miraexhoi/study/blob/master/Back-End/Git/git.md)
 
